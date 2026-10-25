@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://kirthan156.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kirthan156.github.io-0f766e?style=flat-square"></a>
-  <a href="https://linkedin.com/in/kirthan156"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-kirthan156-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kirthan-vivek-gada-607110371"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kirthan_Vivek_Gada-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kirthan156@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirthan156%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
