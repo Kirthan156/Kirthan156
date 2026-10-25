@@ -4,6 +4,7 @@
 </picture>
 
 <p>
+  <a href="https://medical-twin.onrender.com/"><img alt="Heart Twin live demo" src="https://img.shields.io/badge/Live_demo-Heart_Twin-e11d48?style=flat-square"></a>
   <a href="https://kirthan156.github.io"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-kirthan156.github.io-0f766e?style=flat-square"></a>
   <a href="https://linkedin.com/in/kirthan-vivek-gada-607110371"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kirthan_Vivek_Gada-0a66c2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:kirthan156@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kirthan156%40gmail.com-555?style=flat-square&logo=gmail&logoColor=white"></a>
@@ -18,6 +19,7 @@ I build ML systems that run on real sensor data: streaming pipelines, fault diag
 | | |
 |---|---|
 | **Artha Solutions** · SDE intern, 2025 | Digital twin of an industrial cement roller press (Unity 3D), an OPC-UA → Kafka → InfluxDB streaming pipeline, XGBoost / Random Forest fault models, and a LangGraph RAG assistant for SQL generation. |
+| **[Heart twin · live demo ↗](https://medical-twin.onrender.com/)** | Beat-by-beat digital twin of the heart driven by real ECGs. Simulates what VT, AF and PVCs do to blood pressure and what ablation or a beta-blocker would change. 6.0 mmHg error on 26 real ICU VT runs. |
 | **[Motor fault diagnosis research](https://github.com/Kirthan156/induction-motor-fault-diagnosis)** | Metaheuristic feature selection on 2.1M sensor samples. 82.7% fewer features at macro F1 0.9998. Accepted at an international conference. |
 | **[Predictive maintenance](https://github.com/Kirthan156/Major-motor-predictive-maintainence)** | ESP32-S3 sensor node → MQTT → live anomaly detection dashboard. |
 | **[Food calorie estimator](https://github.com/Kirthan156/Cal_AI)** | ConvNeXt-Tiny fine-tuned on Food-101, 87% top-1, served with Flask + React. |
